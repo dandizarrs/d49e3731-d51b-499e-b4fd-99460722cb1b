@@ -1,0 +1,4 @@
+1790704736s 1 https://dandiarchive.s3.amazonaws.com/zarr/d49e3731-d51b-499e-b4fd-99460722cb1b/extensions/templates/percentile_25/1.7.1?versionId=XXoNBHXiZbBs32uwgAV08uQ14ziIjPfb
+1790704736s 1 https://api.dandiarchive.org/api/zarr/d49e3731-d51b-499e-b4fd-99460722cb1b/files?prefix=extensions%2Ftemplates%2Fpercentile_25%2F1.7.1&download=true
+1790704740s 1 https://dandiarchive.s3.amazonaws.com/zarr/d49e3731-d51b-499e-b4fd-99460722cb1b/extensions/templates/percentile_75/5.7.1?versionId=qKa_sg1x5bg8J_VaIidlAgQCkro5tfMH
+1790704740s 1 https://api.dandiarchive.org/api/zarr/d49e3731-d51b-499e-b4fd-99460722cb1b/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F5.7.1&download=true
